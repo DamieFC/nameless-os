@@ -13,3 +13,5 @@ If I missed you, please open a pull request and add your name. I'll merge it qui
 1. Me
 2. Platypus OS (Basically me + [TIBTHINK](https://github.com/TIBTHINK))
 3. Linux 5.12-rc1
+## drivers
+1. Linux 5.12-rc1
