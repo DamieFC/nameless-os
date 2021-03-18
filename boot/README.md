@@ -1,8 +1,2 @@
-## The bootloader
-# HELP
-# I
-# DON'T
-# KNOW
-# WHAT
-# I'M
-# DOING!!!
+# The bootloader
+Eh I'll try.
