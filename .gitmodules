@@ -1,0 +1,4 @@
+[submodule "coreboot"]
+	path = boot/coreboot
+	url = https://github.com/coreboot/coreboot/
+	branch = master
