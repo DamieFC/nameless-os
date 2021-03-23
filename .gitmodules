@@ -1,4 +1,4 @@
-[submodule "coreboot"]
-	path = boot/coreboot
-	url = https://github.com/coreboot/coreboot/
+[submodule "grub"]
+	path = boot/grub
+	url = https://github.com/rhboot/grub2/
 	branch = master
