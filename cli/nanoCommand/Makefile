@@ -1,1 +1,1 @@
-nanocmd: hello.o help.o pi.o prompt.o
+nanocmd: hello.o help.o pi.o prompt.o circumference.o
