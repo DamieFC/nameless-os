@@ -1,0 +1,1 @@
+cliinternals: main.o
