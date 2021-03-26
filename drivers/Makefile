@@ -24,6 +24,12 @@ obj-$(CONFIG_INPUT_TOUCHSCREEN)	+= touchscreen/
 obj-$(CONFIG_INPUT_APMPOWER)	+= apm-power.o
 
 #
+# GPIO
+#
+
+obj-$(CONFIG_IO_GPIO) += gpio/
+
+#
 # Emerald OS stuff
 #
 
