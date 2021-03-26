@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: GPL-2.0
 #
-# Makefile for the input core drivers.
+# Makefile for the input core drivers and stuff
 #
 
 # Each configuration option enables a list of files.
@@ -22,3 +22,11 @@ obj-$(CONFIG_INPUT_MOUSE)	+= mouse/
 obj-$(CONFIG_INPUT_TOUCHSCREEN)	+= touchscreen/
 
 obj-$(CONFIG_INPUT_APMPOWER)	+= apm-power.o
+
+#
+# Emerald OS stuff
+#
+
+obj-$(CONFIG_OUTPUT_VIDEO) += video/
+obj-$(CONFIG_INPUT_KEYOBOARD) += keyboard/
+obj-$(CONFIG_IO_SERIAL) += serial/
