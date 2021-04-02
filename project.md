@@ -20,7 +20,7 @@ Ok, I'm  revealing the project. My idea is this:
     |                |  |   |  |  _ 2 |
     -----------------|  |---|  |--||---
 ```
-1. RISC-V processor
+1. RISC-V/OpenRISC processor
 2. AUX audio
 3. USB-type B
 4. Another USB-type B
