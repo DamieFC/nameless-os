@@ -1,5 +1,5 @@
 #include "panic.h"
-#include <devices/video/vbe.h>
+#include "../drivers/video/vbe.h"
 #include <libk/logging.h>
 #include <libk/random.h>
 char *comments_lol[] =
